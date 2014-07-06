@@ -53,6 +53,7 @@ library
   -- Modules exported by the library.
   exposed-modules:    Data.Trie
                      ,Data.DiscOrder
+                     ,Data.DiscSort
   
   -- Modules included in this library but not exported.
   -- other-modules:       
